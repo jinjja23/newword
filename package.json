@@ -1,0 +1,16 @@
+{
+  "name": "newword",
+  "version": "1.0.0",
+  "description": "신조어 챗봇입니다^^",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "최성진",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoclient": "^1.0.3"
+  }
+}
